@@ -31,8 +31,8 @@ module.exports = defineConfig({
     trace: 'on-first-retry',
    //browserName: 'chromium',
     headless:true
+    
   },
-
   /* Configure projects for major browsers */
   projects: [
     {
