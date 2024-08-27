@@ -1,1 +1,1 @@
-Creating a demo file to push into feature branchS
+Creating a demo file to push into feature branch
